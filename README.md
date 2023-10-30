@@ -1,4 +1,4 @@
-# E-commerce_proj
+# E-commerce
 
 ## Описание проекта и задания
 
